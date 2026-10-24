@@ -1,0 +1,5 @@
+name = "jogo-fatias-e-aneis"
+compatibility_date = "2026-10-24"
+
+[assets]
+directory = "./"
